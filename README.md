@@ -3,7 +3,7 @@ S.W.A.S. uses SQL prepared statement, preventing SQLi, or SQL injection attacks 
 Hashed passwords are created with the following mechanism: SHA-256 Hash Algorithm + Random Salt.
 
 ## Disclaimer
-> The creator(s) of this software assume no liability and are not responsible for any misuse or damages arising from the use of this software. Always obtain proper authorization before testing or analyzing systems using this software.
+> The creator(s) of this software assume no liability and are not responsible for any misuse or damages arising from the use of this software.
 
 
 ## Tip
